@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/s5st9mg19unn5gbn?svg=true)](https://ci.appveyor.com/project/ajoq/ajs-homeworks-6-advanced-6-2-destructuring)
